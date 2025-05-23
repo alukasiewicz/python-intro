@@ -1,0 +1,12 @@
+pyproject.toml
+src/my_awesome_lib/__init__.py
+src/my_awesome_lib/data_utils.py
+src/my_awesome_lib/math_tools.py
+src/my_awesome_lib/text_processing.py
+src/my_awesome_lib.egg-info/PKG-INFO
+src/my_awesome_lib.egg-info/SOURCES.txt
+src/my_awesome_lib.egg-info/dependency_links.txt
+src/my_awesome_lib.egg-info/top_level.txt
+tests/test_data_utils.py
+tests/test_math_tools.py
+tests/test_text_processing.py
