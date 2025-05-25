@@ -2,6 +2,11 @@
 
 Lekka biblioteka narzędziowa napisana w Pythonie, oferująca moduły do pracy z plikami CSV, obliczeń statystycznych oraz przetwarzania tekstu.
 
+## Workflow
+
+![CI](https://github.com/alukasiewicz/python-intro/actions/workflows/python-package.yml/badge.svg)
+
+
 ##  Spis plików i opis
 
 * **`.gitignore`**: lista plików i katalogów ignorowanych przez Git (środowisko wirtualne, cache Pythona, pliki tymczasowe).
