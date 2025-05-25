@@ -3,7 +3,7 @@
 # =====================
 """Wygodne eksporty modułu *my_awesome_lib*.
 
-Pakiet składa się z trzech pod‑modułów:
+Pakiet składa się z trzech pod - modułów:
 
 * ``data_utils`` - operacje na plikach i strukturach danych,
 * ``math_tools`` - statystyka opisowa bez zależności zewnętrznych,
